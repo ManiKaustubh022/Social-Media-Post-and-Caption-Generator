@@ -1,5 +1,5 @@
 
-# 🚀 AI Post Generator - Next Level
+# 🚀 AI Post Generator 
 
 **Create stunning social media content with cutting-edge AI technology.**
 
